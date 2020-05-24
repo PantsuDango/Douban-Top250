@@ -1,7 +1,7 @@
 # 个人练习项目
 
 ## 项目描述
-file: Douban.movies.py  
+file: Douban_Top250.py  
 encoding: utf-8  
 data: 2019.12.31  
 name: LSY  
