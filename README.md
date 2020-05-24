@@ -1,4 +1,4 @@
-# 个人练习系项目
+# 个人练习项目
 
 ## 项目描述
 file: Douban.movies.py  
